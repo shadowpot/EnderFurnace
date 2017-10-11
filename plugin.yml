@@ -1,0 +1,9 @@
+name: EnderFurnace
+main: com.gmail.kagemaru.EnderFurnace.Main
+version: 0.0.4
+commands:
+   ef:
+      description: This is a relation to ender furnace.
+      usage: /<command>
+      permission: enderfurnace.open
+      permission-message: You don't have <permission>
